@@ -14,12 +14,3 @@ $('.badge').on('click', function(){
   }
 });
 
-// scrolla
-$(function(){
-  $('.animate').scrolla({
-    // default
-    mobile: true,
-    once: false,
-  });
-});
-
